@@ -9,6 +9,7 @@ the better. That way you can share with them keyboard shortcuts. We use [Sublime
 
 When you are video-projecting your screen, please follow these guidelines:
 
+- Set your screen resolution to **720p** (1280x720)
 - The only app running on your computer should be Finder, Sublime Text, Terminal and Browser
 - Have your text editor and terminal with a **light background**. You can install the [Solarized](http://ethanschoonover.com/solarized) theme, with the [Sublime Text package](https://github.com/braver/Solarized) and the [OSX terminal theme](https://github.com/tomislav/osx-terminal.app-colors-solarized)
 - Zoom a lot your font size (`⌘=`) in Sublime Text and your terminal.
